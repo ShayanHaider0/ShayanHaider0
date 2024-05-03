@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ShayanHaider0
-- 👀 I’m interested in web development.
+- 👀 I’m interested in data science.
 - 🌱 I’m currently learning Computer Science from Sir Syed University.
 - 💞️ I’m looking to collaborate on Skills
 - 📫 How to reach me : Just Text Me
-- 😄 Pronouns: Shayan
+- 😄 Pronouns: His,Him
 - ⚡ Fun fact: i Love Coding
 
 <!---
